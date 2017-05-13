@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.ivan.samplesd3.FrameLayout">
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:background="#ff0000"
+        android:gravity="center"
+        android:text="1" />
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="#00ff00"
+        android:gravity="center"
+        android:text="2" />
+
+</FrameLayout>
